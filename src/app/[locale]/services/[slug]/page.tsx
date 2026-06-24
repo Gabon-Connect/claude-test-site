@@ -3,7 +3,7 @@ export const runtime = "edge";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import { getTranslations } from "next-intl/server";
-import { SERVICES, getServiceBySlug } from "@/data/services";
+import { getServiceBySlug } from "@/data/services";
 import ServiceHero from "@/components/service/ServiceHero";
 import HowItWorks from "@/components/service/HowItWorks";
 import PricingSection from "@/components/service/PricingSection";
@@ -12,12 +12,6 @@ import RelatedServices from "@/components/service/RelatedServices";
 
 interface Props {
   params: Promise<{ locale: string; slug: string }>;
-}
-
-export async function generateStaticParams() {
-  return SERVICES.flatMap((s) =>
-    ["fr", "en"].map((locale) => ({ locale, slug: s.slug }))
-  );
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
