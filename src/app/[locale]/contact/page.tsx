@@ -1,3 +1,5 @@
+export const runtime = "edge";
+
 import type { Metadata } from "next";
 import { getTranslations } from "next-intl/server";
 import B2CForm from "@/components/contact/B2CForm";
@@ -16,7 +18,6 @@ export default async function ContactPage() {
 
   return (
     <div>
-      {/* Hero */}
       <div className="bg-[#1A1A1A] py-16">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <h1 className="font-[Nunito] font-black text-4xl md:text-5xl text-white mb-4">
@@ -26,11 +27,9 @@ export default async function ContactPage() {
         </div>
       </div>
 
-      {/* Forms */}
       <div className="bg-[#F7F7F5] py-16">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12">
-            {/* B2C */}
             <div className="bg-white rounded-2xl p-8 shadow-sm">
               <div className="mb-2">
                 <span className="text-xs font-bold text-[#F5A623] bg-[#F5A623]/10 px-2 py-1 rounded-full">
@@ -43,7 +42,6 @@ export default async function ContactPage() {
               <B2CForm />
             </div>
 
-            {/* B2B */}
             <div className="bg-white rounded-2xl p-8 shadow-sm">
               <div className="mb-2">
                 <span className="text-xs font-bold text-[#1A1A1A] bg-[#1A1A1A]/10 px-2 py-1 rounded-full">

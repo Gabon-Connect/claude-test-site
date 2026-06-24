@@ -5,6 +5,7 @@ import Link from "next/link";
 import { useTranslations } from "next-intl";
 import { Menu, X } from "lucide-react";
 import { WA_DEFAULT_URL } from "@/data/services";
+import BWToggle from "@/components/layout/BWToggle";
 
 export default function Header({ locale }: { locale: string }) {
   const t = useTranslations("nav");
@@ -56,6 +57,7 @@ export default function Header({ locale }: { locale: string }) {
             >
               {t("lang")}
             </Link>
+            <BWToggle />
           </nav>
 
           {/* Mobile menu button */}
@@ -94,12 +96,15 @@ export default function Header({ locale }: { locale: string }) {
             >
               {t("cta")}
             </Link>
-            <Link
-              href={`/${otherLocale}`}
-              className="text-white/60 text-sm text-center"
-            >
-              {t("lang")}
-            </Link>
+            <div className="flex items-center gap-3">
+              <Link
+                href={`/${otherLocale}`}
+                className="text-white/60 text-sm"
+              >
+                {t("lang")}
+              </Link>
+              <BWToggle />
+            </div>
           </nav>
         </div>
       )}
