@@ -1,0 +1,104 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Our services",
+    "about": "About",
+    "contact": "Contact",
+    "cta": "Book now →",
+    "lang": "FR"
+  },
+  "footer": {
+    "tagline": "moovAfrik — A Gabon Connect product",
+    "copyright": "© 2026 Gabon Connect SARLU. All rights reserved.",
+    "servicesTitle": "Our services",
+    "contactTitle": "Contact us",
+    "phone": "+241 05 58 37 99",
+    "email": "moovafrik@gabonconnect.com",
+    "address": "Libreville, Gabon · 7 days a week",
+    "legal": "Legal notice",
+    "privacy": "Privacy policy",
+    "cookies": "Cookie policy"
+  },
+  "home": {
+    "hero": {
+      "h1": "Your mobility in Libreville.",
+      "h1Line2": "Finally organized.",
+      "subtitle": "School transport, corporate shuttles, airport transfers, event logistics, medical transport, express delivery, e-commerce delivery, car rental. 8 services. One WhatsApp number. 7 days a week.",
+      "cta": "Book now via WhatsApp →",
+      "microtext": "Guaranteed response within 1 hour during business hours · Fixed prices disclosed before booking"
+    },
+    "reassurance": {
+      "title1": "Zero surprises",
+      "text1": "The price announced is the price paid. No last-minute negotiation.",
+      "title2": "Punctuality guaranteed",
+      "text2": "Our drivers leave on time. Your students, colleagues and guests do too.",
+      "title3": "Booking in 2 minutes",
+      "text3": "One WhatsApp message is all it takes. Confirmation sent, driver's identity shared."
+    },
+    "services": {
+      "h2": "Which service do you need?",
+      "subtitle": "From school to the airport, from the office to the clinic — MoovAfrik covers all your mobility needs in Libreville."
+    },
+    "why": {
+      "h2": "Reliable transport is possible in Libreville.",
+      "p1": "Libreville's transport market still operates largely informally: negotiated fares, approximate schedules, no traceability. For a parent, an HR manager or an event organizer, that's a constant risk.",
+      "p2": "MoovAfrik was built to eliminate that risk. Identified vehicles, trained and rated drivers, systematic WhatsApp confirmation, prices disclosed before booking. No bad surprises. Just a service that works."
+    },
+    "quickContact": {
+      "h2": "Booking is simple.",
+      "waLabel": "+241 076 56 75 87",
+      "waSubtext": "Main channel · 7 days/week · Response within 1h",
+      "emailLabel": "contact@gabonconnect.com",
+      "emailSubtext": "B2B quotes, contracts, partnerships"
+    }
+  },
+  "services": {
+    "hubTitle": "Which service do you need?",
+    "hubSubtitle": "From school to the airport, from the office to the clinic — MoovAfrik covers all your mobility needs in Libreville.",
+    "transport-scolaire": { "name": "School Transport", "target": "Families · Schools · Parent associations", "price": "from 25,000 FCFA / student / month", "cardTagline": "Your child boards. You know where they are.", "badge": "Families", "h1": "Your child goes to school.", "h1Line2": "You know exactly how they get there.", "p1": "Informal school transport in Libreville means a shared taxi with no fixed route, no guaranteed schedule, and no way of knowing if your child arrived safely.", "p2": "MoovAfrik organizes fixed routes with the same trained drivers every morning, on mapped and validated itineraries. You receive a WhatsApp confirmation as soon as your child boards the vehicle.", "howTitle": "How does it work?", "step1": "Contact us on WhatsApp with your child's name, address and school.", "step2": "We suggest the nearest route and the all-inclusive monthly rate.", "step3": "The service starts the following week. Same vehicle, same driver, same time.", "pricingTitle": "Pricing", "pricing": "25,000 – 45,000 FCFA / student / month depending on distance", "pricingDetails": "Monthly payment · No registration fee · Suspension possible during school holidays", "waCtaText": "Enroll my child", "emailCtaText": "Request a quote by email", "metaTitle": "School Transport Libreville — MoovAfrik", "metaDesc": "Reliable school runs in Libreville. Same driver, same time, WhatsApp confirmation. from 25,000 FCFA/student/month." },
+    "corporate": { "name": "Corporate Mobility", "target": "Companies · HR · Management", "price": "from 15,000 FCFA / employee / month", "cardTagline": "Your teams arrive on time. Every morning.", "badge": "Companies", "h1": "Your teams are at their desks on time.", "h1Line2": "Every morning. Without exception.", "p1": "Transport-related delays cost energy, productivity and credibility.", "p2": "MoovAfrik handles commuter shuttles for your employees with a framework contract, a single monthly invoice and a punctuality report. You run a business. Not a taxi fleet.", "howTitle": "How does it work?", "step1": "Send us your employee list, their addresses and their schedules.", "step2": "We map optimal routes and submit a framework contract within 48 hours.", "step3": "The service starts. Single monthly invoice — purchase order accepted.", "pricingTitle": "Pricing", "pricing": "15,000 – 35,000 FCFA / employee / month depending on zones and volume", "pricingDetails": "Framework contract · Monthly billing · Punctuality report included · Minimum 5 employees/route", "waCtaText": "Request a shuttle quote", "emailCtaText": "Send a B2B contract request", "metaTitle": "Corporate Shuttles Libreville — MoovAfrik", "metaDesc": "Commuter shuttles for your employees in Libreville. Framework contract, punctuality report, single invoice." },
+    "aeroport": { "name": "Airport Transfers", "target": "Expats · NGOs · Business travellers", "price": "from 15,000 FCFA / trip", "cardTagline": "Flight delayed? The driver waits. You don't pay for the wait.", "badge": "Expats · NGOs", "h1": "Your flight is delayed.", "h1Line2": "Your driver waits too. You don't pay for the wait.", "p1": "Arriving in Libreville at 2am without a confirmed transfer is unnecessary stress.", "p2": "MoovAfrik monitors your flight in real time. If the plane is 45 minutes late, the driver leaves 45 minutes later. Name board at arrival, luggage assistance, air-conditioned vehicle.", "howTitle": "How does it work?", "step1": "Book on WhatsApp with your flight number, arrival time and number of passengers.", "step2": "You receive confirmation within 1 hour + the driver's name and contact.", "step3": "The driver adjusts departure to your actual flight. Name board welcome, transfer, payment.", "pricingTitle": "Pricing", "pricing": "15,000 – 25,000 FCFA / trip", "pricingDetails": "Meet & greet (name board): +5,000 FCFA · Night (10pm–6am) and public holidays: +25% · Corporate account available", "waCtaText": "Book an airport transfer", "emailCtaText": "Open a corporate account", "metaTitle": "Airport Transfer Libreville LBV — MoovAfrik", "metaDesc": "Airport transfer Léon-Mba with real-time flight tracking. Meet & greet, fixed price, 24/7. from 15,000 FCFA." },
+    "evenementiel": { "name": "Event Transport", "target": "Organizers · Families · Companies", "price": "from 50,000 FCFA / event", "cardTagline": "Your guests arrive together. That's your image.", "badge": "Organizers", "h1": "Your guests arrive together, on time.", "h1Line2": "Your event starts well.", "p1": "Wedding, conference, corporate dinner, ceremony: how your guests are transported says something about you.", "p2": "We manage all transport logistics: mapping departure points, coordinating drivers, keeping to schedule. You focus on your event.", "howTitle": "How does it work?", "step1": "Contact us with the date, venue, number of guests and departure areas.", "step2": "We submit a customized transport package with a deposit.", "step3": "On the day, our vehicles are in place 30 minutes before the scheduled time.", "pricingTitle": "Pricing", "pricing": "50,000 – 150,000 FCFA depending on volume and duration", "pricingDetails": "Package + deposit on signing · Free cancellation up to 72 hours before", "waCtaText": "Request an event quote", "emailCtaText": "Request an event quote", "metaTitle": "Event Transport Libreville — MoovAfrik", "metaDesc": "Transport for weddings, conferences and events in Libreville. Organized convoys, punctuality guaranteed. Quote within 24h." },
+    "medical": { "name": "Medical Transport", "target": "Patients · Clinics · Health insurers", "price": "from 8,000 FCFA / trip", "cardTagline": "A medical appointment is not to be missed.", "badge": "Patients · Clinics", "h1": "A medical appointment is not to be missed.", "h1Line2": "We get you there.", "p1": "For a patient with reduced mobility, an elderly person or a post-operative appointment, transport is not an option — it's a necessity.", "p2": "Discreet, punctual, door-to-door. The vehicle picks you up at the agreed time.", "howTitle": "How does it work?", "step1": "Book the day before or on the morning via WhatsApp with the time, address and destination.", "step2": "Driver confirmation sent. Pick-up at your home.", "step3": "Return trip possible if you confirm the end of your appointment by message.", "pricingTitle": "Pricing", "pricing": "8,000 – 15,000 FCFA / trip", "pricingDetails": "Monthly subscription available for regular care · Clinic partnerships: negotiated volume rates", "waCtaText": "Book a medical transport", "emailCtaText": "Contact for a clinic partnership", "metaTitle": "Medical Transport Libreville — MoovAfrik", "metaDesc": "Door-to-door medical transport in Libreville. Trained drivers, discretion assured. from 8,000 FCFA." },
+    "livraison-express": { "name": "Express Delivery", "target": "Individuals · Merchants · Shops", "price": "from 3,000 FCFA / delivery", "cardTagline": "Your parcel leaves now. Arrives within the hour.", "badge": "Individuals", "h1": "Your parcel leaves now.", "h1Line2": "It arrives within the hour.", "p1": "Urgent documents, professional packages, customer orders to deliver today. MoovAfrik collects and delivers within Libreville in under one hour.", "p2": "WhatsApp tracking from departure to arrival. The recipient is notified upon delivery. Simple, fast, traceable.", "howTitle": "How does it work?", "step1": "Send a WhatsApp message with the pick-up and drop-off addresses.", "step2": "Price confirmed, courier assigned. Pick-up within 30 to 60 minutes.", "step3": "Delivery confirmation sent with handover time.", "pricingTitle": "Pricing", "pricing": "3,000 – 8,000 FCFA depending on distance within Libreville", "pricingDetails": "Available 7 days a week · Payment via Airtel Money, Moov Money or cash", "waCtaText": "Request an express delivery", "emailCtaText": "", "metaTitle": "Express Delivery Libreville — MoovAfrik", "metaDesc": "Express delivery in Libreville in under one hour. WhatsApp tracking, delivery confirmation. from 3,000 FCFA." },
+    "livraison-ecommerce": { "name": "E-commerce Delivery", "target": "Online shops · WhatsApp sellers · Marketplaces", "price": "from 3,500 FCFA + 8–12%", "cardTagline": "You sell. We deliver. Your customers receive.", "badge": "Merchants", "h1": "You sell.", "h1Line2": "We deliver. Your customers receive.", "p1": "You run an online shop, you sell on Instagram or WhatsApp in Libreville. Your biggest challenge isn't the sale — it's last-mile delivery.", "p2": "MoovAfrik integrates into your order flow: you send us the order, we deliver to the customer, we confirm handover. You collect.", "howTitle": "How does it work?", "step1": "Contact us to create your merchant partner account.", "step2": "For each order, send us the address and details via WhatsApp or email.", "step3": "Delivery completed, confirmation sent, weekly billing.", "pricingTitle": "Pricing", "pricing": "3,500 – 6,000 FCFA per delivery + 8 to 12% commission", "pricingDetails": "Monthly package available for high-volume merchants", "waCtaText": "Create a merchant account", "emailCtaText": "Open a merchant partner account", "metaTitle": "E-commerce Delivery Libreville — MoovAfrik", "metaDesc": "Delivery solution for online shops in Libreville. Weekly billing. Merchant partnership." },
+    "location": { "name": "Car Rental", "target": "Individuals · Tourists · Professionals", "price": "from 40,000 FCFA / day", "cardTagline": "A clean vehicle, available today. With or without driver.", "badge": "All audiences", "h1": "A clean vehicle, available today.", "h1Line2": "With or without driver.", "p1": "You're visiting Libreville for a mission, a congress or a holiday. You need a reliable, air-conditioned vehicle without constraints.", "p2": "MoovAfrik offers daily or weekly rentals with maintained and insured vehicles. Driver option available for professional travel.", "howTitle": "How does it work?", "step1": "Contact us on WhatsApp with your dates, preferred vehicle type and needs.", "step2": "Quote sent within 2 hours. Confirmation with deposit.", "step3": "Vehicle delivered to your hotel or airport at the agreed time.", "pricingTitle": "Pricing", "pricing": "40,000 – 65,000 FCFA / day depending on the vehicle", "pricingDetails": "Driver option: supplement depending on duration · Weekly: sliding scale rate", "waCtaText": "Book a rental", "emailCtaText": "Request a long-term rental quote", "metaTitle": "Car Rental Libreville — MoovAfrik", "metaDesc": "Car rental in Libreville with or without driver. Air-conditioned and insured vehicles. from 40,000 FCFA/day." }
+  },
+  "contact": {
+    "h1": "Let's talk about your needs.",
+    "subtitle": "Whether you're an individual needing a one-off service or a company looking for a mobility partner, we respond within 1 hour during business hours.",
+    "b2cTitle": "Quick booking",
+    "b2bTitle": "Enterprise quote request",
+    "b2c": { "name": "Your name", "namePlaceholder": "Ex: Jean-Baptiste Moussavou", "phone": "Your WhatsApp number", "phonePlaceholder": "Ex: +241 06 00 00 00", "service": "Which service do you need?", "servicePlaceholder": "Select a service", "datetime": "When?", "datetimePlaceholder": "Desired date and time", "message": "Specify your needs (optional)", "messagePlaceholder": "Address, number of people, details...", "submit": "Send my request →", "successTitle": "Your request has been sent.", "successText": "We will reply on WhatsApp within 1 hour during business hours. If urgent, write to us directly: +241 076 56 75 87" },
+    "b2b": { "company": "Your company name", "companyPlaceholder": "Ex: TotalEnergies EP Gabon", "contact": "Your full name", "function": "Your role (optional)", "functionPlaceholder": "Ex: HR Director, Admin Manager", "email": "Professional email", "emailPlaceholder": "Ex: jean@mycompany.ga", "phone": "Phone number", "service": "Which service interests you?", "servicePlaceholder": "Select a service", "volume": "Number of people / frequency (optional)", "volumePlaceholder": "Ex: 12 employees, 5 days/week", "message": "Describe your needs", "messagePlaceholder": "The more precise you are, the more accurate our quote will be.", "submit": "Send my quote request →", "successTitle": "Quote request received.", "successText": "A MoovAfrik representative will contact you within 24 business hours. For urgent matters: contact@gabonconnect.com" },
+    "metaTitle": "Book — MoovAfrik Libreville",
+    "metaDesc": "Book your MoovAfrik service or request a corporate quote. Response within 1 hour. WhatsApp or online form."
+  },
+  "about": {
+    "h1": "What is MoovAfrik?",
+    "p1": "MoovAfrik is the mobility and delivery platform of Gabon Connect Technology, a Gabonese company based in Libreville. We are not an app. We are an operator — with vehicles, drivers and real accountability for every confirmed booking.",
+    "p2": "Our belief is simple: reliable transport is not a luxury reserved for major cities. In Libreville, families deserve to know where their children are. Companies deserve shuttles that respect schedules. Business travellers deserve a proper airport transfer.",
+    "p3": "MoovAfrik launched in 2026 with 4 owned vehicles and a network of approved partner drivers. We are starting in Libreville, with the ambition to expand our model across the CEMAC sub-region.",
+    "stat1Label": "Own fleet", "stat1Value": "4 vehicles",
+    "stat2Label": "Available modules", "stat2Value": "8 services",
+    "stat3Label": "Availability", "stat3Value": "7 days/week",
+    "stat4Label": "Ambition", "stat4Value": "CEMAC expansion",
+    "identity": "MoovAfrik is a product of Gabon Connect Technology SARLU",
+    "metaTitle": "About — MoovAfrik Gabon",
+    "metaDesc": "MoovAfrik is the mobility and delivery operator of Gabon Connect Technology. Based in Libreville since 2026."
+  },
+  "cookies": { "text": "We use analytics cookies to improve your experience.", "accept": "Accept", "refuse": "Decline" },
+  "common": {
+    "servicesList": {
+      "transport-scolaire": "School Transport",
+      "corporate": "Corporate Mobility",
+      "aeroport": "Airport Transfers",
+      "evenementiel": "Event Transport",
+      "medical": "Medical Transport",
+      "livraison-express": "Express Delivery",
+      "livraison-ecommerce": "E-commerce Delivery",
+      "location": "Car Rental"
+    },
+    "bookViaWhatsApp": "Book via WhatsApp"
+  }
+}
