@@ -9,16 +9,30 @@
   --color-brand-success: #1E8A4C;
   --color-brand-error: #C0392B;
   --color-brand-whatsapp: #25D366;
+
   --font-heading: "Nunito", Arial, sans-serif;
   --font-body: "Nunito Sans", Arial, sans-serif;
 }
 
-* { box-sizing: border-box; }
-html { overflow-x: hidden; }
+* {
+  box-sizing: border-box;
+}
+
+html {
+  overflow-x: hidden;
+}
+
 body {
   overflow-x: hidden;
   font-family: var(--font-body);
   color: #2C2C2C;
   background: #ffffff;
 }
-h1, h2, h3, h4, h5, h6 { font-family: var(--font-heading); }
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-heading);
+}
+
+html.bw {
+  filter: grayscale(1);
+}
