@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+@theme inline {
+  --color-brand-orange: #F5A623;
+  --color-brand-dark: #1A1A1A;
+  --color-brand-text: #2C2C2C;
+  --color-brand-muted: #6B6B6B;
+  --color-brand-light: #F7F7F5;
+  --color-brand-success: #1E8A4C;
+  --color-brand-error: #C0392B;
+  --color-brand-whatsapp: #25D366;
+  --font-heading: "Nunito", Arial, sans-serif;
+  --font-body: "Nunito Sans", Arial, sans-serif;
+}
+
+* { box-sizing: border-box; }
+html { overflow-x: hidden; }
+body {
+  overflow-x: hidden;
+  font-family: var(--font-body);
+  color: #2C2C2C;
+  background: #ffffff;
+}
+h1, h2, h3, h4, h5, h6 { font-family: var(--font-heading); }
